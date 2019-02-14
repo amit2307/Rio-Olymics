@@ -1,0 +1,28 @@
+Sai Nithin Project...
+
+Project Title:- RIO-2016
+
+1. Home Page
+   which includes all games and their description...
+
+2. Schedule of all games    (in tabbular form)
+
+3. Ticket Booking for the event
+
+4. Countries Page ( includes all the Countries Participating in the event)
+
+5. Medals Tally Page 
+
+6. Venue Page 
+which includes all the information about the venue.
+
+
+
+
+Project Details....
+
+The First Page is Divided Into 4 sub-divided parts.
+1. Heading 
+2. Photo Marqee
+3. Draft Boxes
+4. Information regarding Rio games...

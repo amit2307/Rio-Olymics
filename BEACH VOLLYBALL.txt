@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>ATHELETES</title>
+<style type="text/css">
+h1 { 
+	background-color:blue;
+	padding:20px;
+	border-color:red;
+	border-style:double;
+	color:GREEN;
+		text-align:center;}
+	</STYLE>
+</head>
+<LINK HREF="TRING.CSS" REL="STYLESHEET" TYPE="TEXT/CSS"/>
+<body>
+<div class="pan">
+<DIV ID="LP">
+<CENTER><h1>BADMINTON</H1></CENTER>
+</DIV>
+<center><IMG SRC="badminton1.jpg"  HEIGHT="450" WIDTH="90%"/></center>
+<h2><p>Badminton had its debut at the 1992 Summer Olympics and has been contested in 6 Olympiads. 63 different nations have appeared in the Olympic badminton competitions, with 19 appearing all 6 times. It is governed by the Badminton World Federation.</P>
+<P>History</P>
+<P>The 1972 Summer Olympics in Munich saw the first appearance of badminton, as a demonstration sport. Two decades later the sport debuted in competition at the Barcelona 1992 games where 4 events were held, with singles and doubles events for both men and women. Four medals were awarded in each event, including two bronzes. The next Olympics, Atlanta 1996, had 5 events with the addition of mixed doubles. There was also now a playoff between the two semifinal losers to determine the sole winner of the bronze medal. This format has continued to 2016.</P>
+<CENTER> <IMG SRC="badminton.jpg" HEIGHT="450" WIDTH="80%"/></CENTER>
+ </div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Rio@2016</title></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="olympic symbol.png" width="8%"   height="8%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="logo rio.png" width="10%"   height="10%"><br/>
+<p><center><b><i><font size="50" face="Baskerville Old Face" color=red>Rio@2016 Photos</font></b></i></center></p><br/><br/><br/>
+
+
+<img src="riophotos1.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos2.jpg" width="50%"   height="50%"></center><br/><br/>
+<p align="right">
+<img src="riophotos3.jpg" width="50%"   height="50%"></p><br/><br/>
+
+<img src="riophotos4.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos5.jpg" width="50%"   height="50%"></center><br/><br/>
+<p align="right">
+<img src="riophotos6.jpg" width="50%"   height="50%"></p><br/><br/>
+<img src="riophotos7.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos8.jpg" width="50%"   height="50%"></center><br/><br/>
+<p align="right">
+<img src="riophotos9.jpg" width="50%"   height="50%"></p><br/><br/>
+<img src="riophotos10.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos11.jpg" width="50%"   height="50%"></center><br/><br/>
+<p align="right">
+<img src="riophotos12.jpg" width="50%"   height="50%"></p><br/><br/>
+<img src="riophotos13.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos14.jpg" width="50%"   height="50%"></center><br/><br/>
+<p align="right">
+<img src="riophotos15.jpg" width="50%"   height="50%"></p><br/><br/>
+<img src="riophotos16.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos17.jpg" width="50%"   height="50%"></center><br/><br/>
+<p align="right">
+<img src="riophotos18.jpg" width="50%"   height="50%"></p><br/><br/>
+<img src="riophotos19.jpg" width="50%"   height="50%"><br/><br/>
+<center>
+<img src="riophotos20.jpg" width="50%"   height="50%"></center><br/><br/>
+</html>

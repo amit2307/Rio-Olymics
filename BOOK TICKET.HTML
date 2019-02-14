@@ -1,0 +1,130 @@
+<!doctype html>
+<HTML>
+<HEAD>
+
+<TITLE>BOOK ONLINE TICKET</TITLE
+
+</HEAD>
+
+
+
+<LINK HREF="TRING.CSS" REL="STYLESHEET" TYPE="TEXT/CSS"/>
+<BODY>
+<DIV CLASS="Fp">
+<CENTER><H1>ONLINE BOOKING RIO 2016</H1>
+<H2>BOOK YOUR TICKET NOW IT TAKES FEW SECONDS ONLY.</H2></CENTER>
+<TABLE>
+
+<form name="myForm">
+
+<TR><CENTER><P>USERNAME*:<INPUT TYPE="TEXT" name="fname" id="ca" ></P></TR>
+<TR><CENTER><P>EMAIL ID*---:<INPUT TYPE="TEXT" id="po" ></P></CENTER></TR>
+<TR><CENTER><P>MOBILE NO.*:<INPUT TYPE="TEXT" id="pa" ><P /></CENTER></TR>
+<TR><P><CENTER>TOTAL SEAT*:<INPUT TYPE="TEXT" id="ps" ></P></CENTER></TR><BR /><HR /><BR />
+<TR><P><CENTER>SEAT PREFFERE*: <SELECT id="pf">
+
+<OPTION>SELECT SEAT*</OPTION>
+<OPTION>FRONT SIDE</OPTION>
+<OPTION>MIDDLE SEAT</OPTION>
+<OPTION>BACK SIDE</OPTION>
+<OPTION>VIP BOX</OPTION></SELECT></CENTER></P></TR>
+
+<TR><CENTER><P>PAYMENT MODE* <SELECT id="pg">
+<OPTION>PAYMENT</OPTION>
+<OPTION>DEBIT CARD</OPTION>
+<OPTION>PAYTM</OPTION>
+<OPTION>CREDIT CARD</OPTION>
+<OPTION>NET BANKING</OPTION><BR /></SELECT></P></CENTER></TR>
+
+<TR><CENTER><P>SPORTS EVENT* <SELECT id="ph">
+<OPTION>BADMINTON</OPTION>
+<OPTION>ARCHERY</OPTION>
+<OPTION>BOXING</OPTION>
+<OPTION>BASKET BALL</OPTION>
+<OPTION>VOLLEY BALL</OPTION><BR /></SELECT></P></CENTER></TR>
+
+<tr><center>NUMBER OF SEATS 
+  <form>
+            
+            <select id="mylist" onchange="myfunction()">
+				<option value="0" >0</option>
+                <option value="1" >1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4" >4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+            </select>
+            <br>
+           
+           <center>CHARGES :<p id="s" >0 </p></center>
+        </form>
+        <script>
+            function myfunction()
+            {
+                var c=document.getElementById("mylist").value;
+                var price=c*180;
+                document.getElementById("s").innerHTML=price;
+            }
+        </script></p>
+		</center>
+		</tr>
+<BR /><HR /><BR />
+
+<TR><CENTER><P><INPUT TYPE="RESET" VALUE="CLEAR ALL" ONCLICK="b()" ></CENTER></P></TR>
+
+<CENTER><input type="submit" onclick="validateForm()" value="Submit" /></CENTER>
+
+
+</FORM>
+</TABLE>
+<center><img src="riophotos8.jpg" width="100%" height="500"></center>
+
+
+
+</center>
+
+</DIV>
+
+<script>
+
+function a()
+{
+	window.alert("Your ticket has been successfully booked.");
+}
+
+
+function b()
+{
+	window.alert("Do you want to enter data again ");
+}
+
+
+function validateForm() {
+    if (document.getElementById('ca').value == "" maxlength=10) {
+        alert("Name must be filled out");
+    }
+	else if(document.getElementById('po').value == "")
+	    alert("email id must be filled");
+		
+		else if(document.getElementById('pa').value == "")
+		alert("enter mobile number here ");
+		
+		else if(document.getElementById('ps').value == "")
+			alert("enter number of booking seats");
+			
+			else if(document.getElementById('pf').value == "SELECT SEAT")
+			alert("enter seat preference ");
+			
+			else if(document.getElementById('pg').value == "PAYMENT")
+			alert("enter payment mode for booking ticket ");
+			
+			
+			
+		else
+		alert("your ticket has been booked succesfully");
+}
+</script>
+
+</BODY>
+</HTML>

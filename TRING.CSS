@@ -1,0 +1,141 @@
+UL
+{
+	margin:0px;
+	padding:0px;
+}
+
+ul li
+{
+	background-color:RED;
+	width:330px;
+	height:40px;
+	line-height:40px;
+	float:left;
+	border:1px solid white;
+	text-align:center;
+}
+
+ul li a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+
+ul li a:hover
+{
+	background:green;
+}
+
+ul li ul li 
+{
+	display:none;
+}
+
+ul li:hover ul li{
+	display:block;
+}
+
+.TOP_NAV {
+    position: relative;
+    display: inline-block;
+	
+}
+td {
+    text-align: center;
+	
+}
+.to {
+    width: 100%; 
+    background-color: GREEN;
+}
+
+.headk{
+
+BACKGROUND-IMAGE:URL("riocover1.jpg");
+COLOR:RED;
+font-size:10px;
+padding:10px;}
+
+th, td {
+    padding: 15px;
+}
+
+.links{
+float:left;
+padding:40px;
+width:400px;
+}
+
+.image{
+margin-left:400px;
+padding:20px;
+border-left:2px solid gold;
+}
+
+.footer{
+background-color:blue;
+color:red;
+font-size:15px;
+padding:15px;}
+
+
+body{
+	margin:0px;
+	padding: 0px;
+	width:100%;
+	height:100%;
+	
+}
+
+h1{
+	
+	color: white;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+
+.done{
+	color:blue;
+	
+	background-color:gold;
+}
+.ho
+{
+	
+	COLOR:#00008B;
+	BACKGROUND-IMAGE:URL("BAB.jpg");
+    
+}
+
+
+.Lo
+{
+
+	COLOR:#00008B;
+	BACKGROUND-COLOR: #00FF7F ;
+}
+
+.Po
+{
+
+	COLOR:#00008B;
+	BACKGROUND-COLOR: #00BFFF ;
+}
+.Fp
+{
+	COLOR:#006400;
+	BACKGROUND-COLOR:#FF8C00;
+}
+.pan
+{
+	COLOR:RED;
+	BACKGROUND-IMAGE:URL("BAB.jpg");
+	background-blend-mode: lighten;
+}
+
+#LP
+{
+	COLOR:RED;
+}
+

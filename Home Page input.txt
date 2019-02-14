@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Home Page</title></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="olympic symbol.png" width="8%"   height="8%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="logo rio.png" width="10%"   height="10%"><br/><br/>
+<p><center><b><i><font size="30" face="Baskerville Old Face" color=blue>Olympic Games Rio 2016</font></b></i></center></p><br/>
+<hr/>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font size="8" face="Baskerville Old Face" color=red><a href=Rio-2016.html>Rio-2016</a></font>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font size="8" face="Baskerville Old Face" color=red><a href=Countries.html>Countries</a></font>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font size="8" face="Baskerville Old Face" color=red><a href=Sports.html>Sports</a></font>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font size="8" face="Baskerville Old Face" color=red><a href=Gallery.html>Gallery</a></font>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font size="8" face="Baskerville Old Face" color=red><a href=Ticket.html>Ticket</a></font>
+
+<hr/>
+<body>
+<marquee><img src="RIORIO.jpg" width="15%"   height="15%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="riophotos1.jpg" width="15%"   height="15%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="riophotos2.jpg" width="15%"   height="15%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="riophotos3.jpg" width="15%"   height="15%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="riophotos4.jpg" width="15%"   height="15%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="india rio.jpg" width="15%"   height="15%"></marquee>
+<hr/>
+
+<p><center><b><i><font size="15" face="Baskerville Old Face" color=red>LEADER BOARD</font></b></i></center></p><br/>
+<br/
+
+<body>
+<center>
+<font size="20" face="Baskerville Old Face" color=green>
+<table border="0px">
+
+<tr>
+<th>S.No&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></th>
+<th>Country&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></th>
+<th>Gold&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></th>
+<th>Silver&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></th>
+<th>Bronze&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></th>
+</tr>
+<tr>
+<td> 1 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></td>
+<td>USA&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></td>
+<td>46&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></td>
+<td>37&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></td>
+<td> 38&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/><br/></td>
+</tr>
+<tr>
+<td> 2<br/><br/> </td>
+<td>GBR<br/><br/></td>
+<td>27<br/><br/></td>
+<td>23<br/><br/></td>
+<td>17<br/><br/></td>
+</tr>
+<tr>
+<td> 3 <br/><br/></td>
+<td>CHN<br/><br/></td>
+<td>26<br/><br/></td>
+<td>18<br/><br/></td>
+<td>26<br/><br/></td>
+</tr>
+<tr>
+<td> 4<br/><br/> </td>
+<td>RUS<br/><br/></td>
+<td> 19<br/><br/></td>
+<td>18<br/><br/> </td>
+<td>19<br/><br/></td>
+</tr>
+<tr>
+<td> 5 <br/><br/></td>
+<td> GER<br/><br/> </td>
+<td>17<br/><br/>  </td>
+<td>10<br/><br/></td>
+<td>15 <br/><br/> </td>
+</tr>
+<tr>
+<td> 6 <br/><br/></td>
+<td> JPN<br/><br/></td>
+<td>12<br/><br/>  </td>
+<td> 8<br/><br/> </td>
+<td>21<br/><br/></td>
+</tr>
+<tr>
+<td> 7<br/><br/> </td>
+<td> FRA<br/><br/> </td>
+<td> 10<br/><br/> </td>
+<td>18<br/><br/></td>
+<td>14 <br/><br/></td>
+</tr>
+<tr>
+<td> 8<br/><br/> </td>
+<td> KOR<br/><br/> </td>
+<td>9 <br/><br/> </td>
+<td> 3<br/><br/> </td>
+<td>9<br/><br/></td>
+</tr>
+<tr>
+<td> 9<br/><br/> </td>
+<td> ITA<br/><br/> </td>
+<td> 8 <br/><br/></td>
+<td>12<br/><br/> </td>
+<td>8<br/><br/></td>
+</tr>
+<tr>
+<td> 10<br/><br/> </td>
+<td> AUS<br/><br/></td>
+<td> 8 <br/><br/></td>
+<td>11 <br/><br/></td>
+<td>10<br/><br/></td>
+</tr>
+</table>
+</center></font>
+</html>
+
+
+
